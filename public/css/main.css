@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: blue;
+    font-size: large;
+}
+footer {
+    background-color: #eee;
+    padding: 20px 20px;
+    text-align: center;
+}
+img {
+    /* height: 250px; */
+    border-radius: 50%;
+}
+.title {
+    font-size: 50px;
+    text-transform: uppercase;
+    border-bottom: 2px solid;
+    padding: 12px 0;
+    color: rgb(29, 28, 25);
+    font-weight: 700;
+}
